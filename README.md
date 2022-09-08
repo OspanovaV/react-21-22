@@ -2,7 +2,7 @@
 
 - Зачем нужны JS-фреймворки?
 - [Концепция Virtual DOM](https://illustrated.dev/react-vdom)
-- [create-react-app](https://create-react-app.dev/)
+- [create-react-app](https://create-react-app.dev/) gg
   - webpack
   - babel
   - eslint
